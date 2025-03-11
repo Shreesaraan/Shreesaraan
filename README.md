@@ -1,6 +1,6 @@
 # 💻 Hey there, I’m Shreesaraan Devarajan! 🚀
 ## 👨‍💻 Data Enthusiast | Aspiring Data Engineer  
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWE1djJwcHMxZG9ia2ZhbnY3NzEwNTFiNmdyMHhqMDNyOTQxeXZyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lHfxDepSGlzom6f65K/giphy.gif"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWE1djJwcHMxZG9ia2ZhbnY3NzEwNTFiNmdyMHhqMDNyOTQxeXZyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lHfxDepSGlzom6f65K/giphy.gif"/>
 Currently working at **Accenture**, diving into the world of **Big Data** and **Data Engineering**. I love working with data—transforming raw information into meaningful insights, optimizing workflows, and building scalable data solutions.
 
 ### 📚 Leveling Up In:  
