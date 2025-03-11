@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💻 Hey there, I’m Shreesaraan Devarajan! 🚀
+## 👨‍💻 Data Enthusiast | Aspiring Data Engineer  
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWE1djJwcHMxZG9ia2ZhbnY3NzEwNTFiNmdyMHhqMDNyOTQxeXZyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lHfxDepSGlzom6f65K/giphy.gif"  />
+Currently working at **Accenture**, diving into the world of **Big Data** and **Data Engineering**. I love working with data—transforming raw information into meaningful insights, optimizing workflows, and building scalable data solutions.
 
-<!--
-**Shreesaraan/Shreesaraan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 Leveling Up In:  
+⚡ **Databricks**    ⚡ **Spark**   ⚡ **Kafka**   ⚡ **Cloud Technologies**   ⚡ **Building Scalable Data Pipelines**  
 
-Here are some ideas to get you started:
+### 🎯 Beyond the Code – My Interests:  
+🎥 Binging Anime | 🎮 Leveling up in games | 🕵️‍♂️ Watching crime mysteries | 📖 Getting lost in books   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **On a journey to master data—one query at a time!** Let’s connect and create something impactful. 🚀  
+
+---
+
+### 📫 Connect with Me:  
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shreesaraan-devarajan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreesaraan-devarajan/" height="30" width="40" /></a>
+</p>
