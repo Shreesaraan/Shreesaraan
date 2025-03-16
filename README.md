@@ -14,5 +14,5 @@ Currently at **Accenture**, diving into the world of **Big Data** and **Data Eng
 ---
 
 ### 📫 Connect with Me:  
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shreesaraan-devarajan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreesaraan-devarajan/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreesaraan-devarajan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreesaraan-devarajan/" height="30" width="40" /></a>
 </p>
