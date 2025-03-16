@@ -6,7 +6,7 @@ Currently at **Accenture**, diving into the world of **Big Data** and **Data Eng
 ### 📚 Leveling Up In:  
 ⚡ **Databricks**    ⚡ **Spark**   ⚡ **Kafka**   ⚡ **Cloud Technologies**   ⚡ **Building Scalable Data Pipelines**  
 
-### 🎯 Beyond the Code – My Interests:  
+### 🎯 Beyond Data – My Interests:  
 🎥 Binging Anime | 🎮 Leveling up in games | 🕵️‍♂️ Watching crime mysteries | 📖 Getting lost in books   
 
 🌟 **On a journey to master data—one query at a time!** Let’s connect and create something impactful. 🚀  
