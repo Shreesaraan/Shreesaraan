@@ -11,8 +11,7 @@ Currently at **Accenture**, diving into the world of **Big Data** and **Data Eng
 ### 🎯 Beyond Data – My Interests:  
 🎥 Binging Anime | 🎮 Leveling up in games | 🕵️‍♂️ Watching crime mysteries | 📖 Getting lost in books   
 
-### 🔥 Code & Conquer
-![Leetcode Stats](https://leetcard.jacoblin.cool/shreesaraan_devarajan?ext=heatmap)
+### 🔥 Momentum
 ![](https://nirzak-streak-stats.vercel.app/?user=shreesaraan&theme=shadow_blue&hide_border=true)<br/>
 
 ---
