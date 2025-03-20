@@ -12,6 +12,7 @@ Currently at **Accenture**, diving into the world of **Big Data** and **Data Eng
 🎥 Binging Anime | 🎮 Leveling up in games | 🕵️‍♂️ Watching crime mysteries | 📖 Getting lost in books   
 
 ### 🔥 Momentum
+![snake gif](https://github.com/Shreesaraan/Shreesaraan/blob/output/github-snake.svg)
 ![](https://nirzak-streak-stats.vercel.app/?user=shreesaraan&theme=shadow_blue&hide_border=true)<br/>
 
 ---
