@@ -11,15 +11,6 @@ Currently **Associate Software Engineer** at **Accenture**, diving into the worl
 ### 🎯 Beyond Data – My Interests:  
 🎥 Binging Anime | 🎮 Leveling up in games | 🕵️‍♂️ Watching crime mysteries | 📖 Getting lost in books   
 
-### 🔥 Momentum
-## LeetCode Stats:<br>
-![](https://leetcard.jacoblin.cool/shree_dev?ext=heatmap)
-
-## GitHub Stats:<br>
-![snake gif](https://github.com/Shreesaraan/Shreesaraan/blob/output/github-snake.svg)
-![](https://nirzak-streak-stats.vercel.app/?user=shreesaraan&theme=shadow_blue&hide_border=true)
-
-
 
 ---
 🌟 **On a journey to master data—one query at a time!** Let’s connect and create something impactful. 🚀  
